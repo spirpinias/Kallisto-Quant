@@ -1,0 +1,14 @@
+metadata_version: 1
+name: Kallisto Quant
+description: |-
+  kallisto is a program for quantifying abundances of transcripts from bulk and single-cell RNA-Seq data, or more generally of target sequences using high-throughput sequencing reads.
+
+  Source : https://pachterlab.github.io/kallisto/about
+tags:
+- Quantification
+- Alignment
+- RNA
+- Genomics
+- Kallisto
+authors:
+- name: Stephen Pirpinias
